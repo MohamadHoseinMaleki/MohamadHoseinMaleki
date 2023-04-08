@@ -29,3 +29,15 @@
 <a href="https://t.me/moh_m82" target="blank">
   <img align="center" src="https://img.icons8.com/fluency/48/null/telegram-app.png" alt="mobina-jafarian" /></a>
 </p>
+
+
+# 💻 Tech Stack:
+<p align="left"> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://redis.io/" target="_blank" rel="noreferrer">                                                                                                          <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" width=40 height=40> </a> 
+<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="sass" width="40" height="40"/> </a>                                                                                                                                             
+</p>
