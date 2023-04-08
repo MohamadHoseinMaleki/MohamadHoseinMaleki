@@ -13,8 +13,7 @@
 ## 🌐 Socials:
 
 <p align="left">
-<a href="https://www.linkedin.com/in/mohammad-hossein-maleki-6426a023a/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mobina-jafarian" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohammad-hossein-maleki-6426a023a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mobina-jafarian" height="30" width="40" /></a>
 <a href="https://mhmm69923@gmail.com" target="blank">
   <img align="center" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" alt="mobina-jafarian" height="30" width="40" /></a>
   <a href="https://stackoverflow.com/users/17655906/%d9%85%d8%ad%d9%85%d8%af-mhm" target="blank">
